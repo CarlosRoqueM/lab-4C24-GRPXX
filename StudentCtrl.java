@@ -1,0 +1,3 @@
+Puclic class StudentCtrl {
+
+}
